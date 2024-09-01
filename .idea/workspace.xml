@@ -44,7 +44,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.HiddenWordTest.guessCapitalized">
+  <component name="RunManager" selected="JUnit.HiddenWordTest">
     <configuration name="HiddenWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CS.12.01-Tutorial.1.2.2" />
       <option name="PACKAGE_NAME" value="" />
@@ -76,8 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HiddenWordTest.guessCapitalized" />
         <item itemvalue="JUnit.HiddenWordTest" />
+        <item itemvalue="JUnit.HiddenWordTest.guessCapitalized" />
         <item itemvalue="JUnit.HiddenWordTest.capitalizedHiddenWord" />
       </list>
     </recent_temporary>
